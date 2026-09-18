@@ -147,8 +147,11 @@ plt.xlabel("Actual House Price")
 plt.ylabel("Predicted House Price")
 plt.title("Actual vs Predicted House Prices")
 
-plt.show()
+plt.tight_layout()
 
+plt.savefig("actual_vs_predicted.png", dpi=300, bbox_inches="tight")
+
+plt.show()
 
 # --------------------------------------------------
 # 11. TEST YOUR OWN HOUSE

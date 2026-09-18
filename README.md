@@ -77,16 +77,16 @@ The model is evaluated using:
 ### Results
 
 ```text
-Mean Squared Error (MSE): YOUR_VALUE
-Root Mean Squared Error (RMSE): YOUR_VALUE
+Mean Squared Error (MSE):0.5559
+Root Mean Squared Error (RMSE):  0.7456
 R² Score: YOUR_VALUE
 ```
 
-Replace `YOUR_VALUE` with the values from your terminal output.
-
 ## 📊 Visualization
 
-The project generates an **Actual vs Predicted House Prices** scatter plot to compare the model's predictions with the actual values.
+The following plot compares the actual house prices with the prices predicted by the Linear Regression model.
+
+![Actual vs Predicted House Prices](actual_vs_predicted.png)
 
 ## 🏡 Example Prediction
 
