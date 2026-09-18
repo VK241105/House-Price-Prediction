@@ -79,7 +79,7 @@ The model is evaluated using:
 ```text
 Mean Squared Error (MSE):0.5559
 Root Mean Squared Error (RMSE):  0.7456
-R² Score: YOUR_VALUE
+R² Score:  0.5758
 ```
 
 ## 📊 Visualization
